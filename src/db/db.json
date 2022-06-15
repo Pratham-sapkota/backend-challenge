@@ -1,0 +1,434 @@
+[
+  {
+  "_id": {
+    "$oid": "622ce9ba5d72be4d703e972e"
+  },
+  "financialAid": {
+    "Student_Financial_Aid": {
+      "All_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      },
+      "Any_Grant_Or_Scholarship_Aid": {
+        "Percent_receiving_aid": "90%",
+        "Average_amount_of_aid_received": "$7,208"
+      },
+      "Pell_Grants": {
+        "Percent_receiving_aid": "80%",
+        "Average_amount_of_aid_received": "$4,664"
+      },
+      "Federal_Student_Loans": {
+        "Percent_receiving_aid": "0%",
+        "Average_amount_of_aid_received": ""
+      },
+      "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      }
+    }
+  },
+  "retentionAndGraduation": {
+    "Retention_And_Graduation": {
+      "Overall_Graduation_Rates": {
+        "Rate": " "
+      },
+      "Total": {
+        "Rate": "21%"
+      },
+      "Men": {
+        "Rate": "31%"
+      },
+      "Women": {
+        "Rate": "8%"
+      },
+      "Nonresident_Alien": {
+        "Rate": ""
+      },
+      "Transfer_Out-rate": {
+        "Rate": "3%"
+      }
+    }
+  },
+  "unitId": 180203,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ce9ba5d72be4d703e972d"
+  },
+  "financialAid": {
+    "Student_Financial_Aid": {
+      "All_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      },
+      "Any_Grant_Or_Scholarship_Aid": {
+        "Percent_receiving_aid": "90%",
+        "Average_amount_of_aid_received": "$5,603"
+      },
+      "Pell_Grants": {
+        "Percent_receiving_aid": "69%",
+        "Average_amount_of_aid_received": "$7,845"
+      },
+      "Federal_Student_Loans": {
+        "Percent_receiving_aid": "8%",
+        "Average_amount_of_aid_received": "$3,371"
+      },
+      "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      }
+    }
+  },
+  "retentionAndGraduation": {
+    "Retention_And_Graduation": {
+      "Overall_Graduation_Rates": {
+        "Rate": " "
+      },
+      "Total": {
+        "Rate": "49%"
+      },
+      "Men": {
+        "Rate": "57%"
+      },
+      "Women": {
+        "Rate": "40%"
+      },
+      "Nonresident_Alien": {
+        "Rate": "100%"
+      },
+      "Transfer_Out-rate": {
+        "Rate": "7%"
+      }
+    }
+  },
+  "unitId": 139384,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ce9ba5d72be4d703e972f"
+  },
+  "financialAid": {
+    "Student_Financial_Aid": {
+      "All_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      },
+      "Any_Grant_Or_Scholarship_Aid": {
+        "Percent_receiving_aid": "55%",
+        "Average_amount_of_aid_received": "$3,670"
+      },
+      "Pell_Grants": {
+        "Percent_receiving_aid": "47%",
+        "Average_amount_of_aid_received": "$3,721"
+      },
+      "Federal_Student_Loans": {
+        "Percent_receiving_aid": "65%",
+        "Average_amount_of_aid_received": "$4,882"
+      },
+      "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      }
+    }
+  },
+  "retentionAndGraduation": {
+    "Retention_And_Graduation": {
+      "Graduation_Rate": {
+        "Rate": "65%"
+      },
+      "Transfer_Out-rate": {
+        "Rate": "0%"
+      }
+    }
+  },
+  "unitId": 474924,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ce9ba5d72be4d703e9733"
+  },
+  "financialAid": {
+    "Student_Financial_Aid": {
+      "All_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      },
+      "Any_Grant_Or_Scholarship_Aid": {
+        "Percent_receiving_aid": "64%",
+        "Average_amount_of_aid_received": "$7,615"
+      },
+      "Pell_Grants": {
+        "Percent_receiving_aid": "54%",
+        "Average_amount_of_aid_received": "$4,693"
+      },
+      "Federal_Student_Loans": {
+        "Percent_receiving_aid": "48%",
+        "Average_amount_of_aid_received": "$4,976"
+      },
+      "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      }
+    }
+  },
+  "retentionAndGraduation": {
+    "Retention_And_Graduation": {
+      "Overall_Graduation_Rates": {
+        "Rate": " "
+      },
+      "Total": {
+        "Rate": "56%"
+      },
+      "Men": {
+        "Rate": "49%"
+      },
+      "Women": {
+        "Rate": "61%"
+      },
+      "Nonresident_Alien": {
+        "Rate": "100%"
+      },
+      "Transfer_Out-rate": {
+        "Rate": "39%"
+      }
+    }
+  },
+  "unitId": 239071,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ce9ba5d72be4d703e9732"
+  },
+  "financialAid": {
+    "Student_Financial_Aid": {
+      "All_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      },
+      "Any_Grant_Or_Scholarship_Aid": {
+        "Percent_receiving_aid": "71%",
+        "Average_amount_of_aid_received": "$4,281"
+      },
+      "Pell_Grants": {
+        "Percent_receiving_aid": "70%",
+        "Average_amount_of_aid_received": "$4,837"
+      },
+      "Federal_Student_Loans": {
+        "Percent_receiving_aid": "75%",
+        "Average_amount_of_aid_received": "$6,148"
+      },
+      "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      }
+    }
+  },
+  "retentionAndGraduation": {
+    "Retention_And_Graduation": {
+      "Graduation_Rate": {
+        "Rate": "56%"
+      },
+      "Transfer_Out-rate": {
+        "Rate": "0%"
+      }
+    }
+  },
+  "unitId": 210474,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ce9ba5d72be4d703e9731"
+  },
+  "financialAid": {
+    "Student_Financial_Aid": {
+      "All_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      },
+      "Any_Grant_Or_Scholarship_Aid": {
+        "Percent_receiving_aid": "36%",
+        "Average_amount_of_aid_received": "$4,158"
+      },
+      "Pell_Grants": {
+        "Percent_receiving_aid": "31%",
+        "Average_amount_of_aid_received": "$4,952"
+      },
+      "Federal_Student_Loans": {
+        "Percent_receiving_aid": "0%",
+        "Average_amount_of_aid_received": ""
+      },
+      "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      }
+    }
+  },
+  "retentionAndGraduation": {
+    "Retention_And_Graduation": {
+      "Overall_Graduation_Rates": {
+        "Rate": " "
+      },
+      "Total": {
+        "Rate": "91%"
+      },
+      "Men": {
+        "Rate": "96%"
+      },
+      "Women": {
+        "Rate": "87%"
+      },
+      "Nonresident_Alien": {
+        "Rate": ""
+      },
+      "Transfer_Out-rate": {
+        "Rate": ""
+      }
+    }
+  },
+  "unitId": 133155,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ce9ba5d72be4d703e9730"
+  },
+  "financialAid": {
+    "Student_Financial_Aid": {
+      "All_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      },
+      "Any_Grant_Or_Scholarship_Aid": {
+        "Percent_receiving_aid": "89%",
+        "Average_amount_of_aid_received": "$28,497"
+      },
+      "Pell_Grants": {
+        "Percent_receiving_aid": "41%",
+        "Average_amount_of_aid_received": "$5,100"
+      },
+      "Federal_Student_Loans": {
+        "Percent_receiving_aid": "64%",
+        "Average_amount_of_aid_received": "$5,597"
+      },
+      "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      }
+    }
+  },
+  "retentionAndGraduation": {
+    "Retention_And_Graduation": {
+      "Overall_Graduation_Rates": {
+        "Rate": " "
+      },
+      "Total": {
+        "Rate": "59%"
+      },
+      "Men": {
+        "Rate": "61%"
+      },
+      "Women": {
+        "Rate": "58%"
+      },
+      "Nonresident_Alien": {
+        "Rate": "39%"
+      },
+      "Transfer_Out-rate": {
+        "Rate": "14%"
+      }
+    }
+  },
+  "unitId": 159656,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ce9ba5d72be4d703e9735"
+  },
+  "financialAid": {
+    "Student_Financial_Aid": {
+      "All_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      },
+      "Any_Grant_Or_Scholarship_Aid": {
+        "Percent_receiving_aid": "38%",
+        "Average_amount_of_aid_received": "$5,919"
+      },
+      "Pell_Grants": {
+        "Percent_receiving_aid": "54%",
+        "Average_amount_of_aid_received": "$5,144"
+      },
+      "Federal_Student_Loans": {
+        "Percent_receiving_aid": "71%",
+        "Average_amount_of_aid_received": "$6,408"
+      },
+      "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      }
+    }
+  },
+  "retentionAndGraduation": {
+    "Retention_And_Graduation": {
+      "Graduation_Rate": {
+        "Rate": "51%"
+      },
+      "Transfer_Out-rate": {
+        "Rate": "5%"
+      }
+    }
+  },
+  "unitId": 219037,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ce9ba5d72be4d703e9734"
+  },
+  "financialAid": {
+    "Student_Financial_Aid": {
+      "All_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      },
+      "Any_Grant_Or_Scholarship_Aid": {
+        "Percent_receiving_aid": "84%",
+        "Average_amount_of_aid_received": "$9,430"
+      },
+      "Pell_Grants": {
+        "Percent_receiving_aid": "52%",
+        "Average_amount_of_aid_received": "$4,797"
+      },
+      "Federal_Student_Loans": {
+        "Percent_receiving_aid": "54%",
+        "Average_amount_of_aid_received": "$4,754"
+      },
+      "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+        "Percent_receiving_aid": "",
+        "Average_amount_of_aid_received": ""
+      }
+    }
+  },
+  "retentionAndGraduation": {
+    "Retention_And_Graduation": {
+      "Overall_Graduation_Rates": {
+        "Rate": " "
+      },
+      "Total": {
+        "Rate": "34%"
+      },
+      "Men": {
+        "Rate": "26%"
+      },
+      "Women": {
+        "Rate": "42%"
+      },
+      "Nonresident_Alien": {
+        "Rate": "67%"
+      },
+      "Transfer_Out-rate": {
+        "Rate": "21%"
+      }
+    }
+  },
+  "unitId": 107071,
+  "__v": 0
+}]

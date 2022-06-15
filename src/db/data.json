@@ -1,0 +1,298 @@
+[
+    {
+        "elevatorInfo": {
+            "Institution_Characteristics": {
+                "Unitid": "139384",
+                "Name": "Georgia Northwestern Technical College",
+                "City": "Rome",
+                "State": "GA",
+                "Web_Address": "www.gntc.edu/",
+                "Distance_Learning": "Offers undergraduate courses and/or programs"
+            }
+        },
+        "studentCharges": {
+            "Cost": {
+                "Published_Tuition_And_Required_Fees": "",
+                "In-state": "$3,062",
+                "Out-of-state": "$5,462",
+                "Books_And_Supplies": "$1,500",
+                "Off-campus_(not_With_Family)_Room_And_Board": "$5,528",
+                "Off-campus_(not_With_Family)_Other_Expenses": "$5,191",
+                "Off-campus_(with_Family)_Other_Expenses": "$2,431",
+                "Total_Cost": "",
+                "Off-campus_(not_With_Family),_In-state": "$15,281",
+                "Off-campus_(not_With_Family),_Out_Of_State": "$17,681",
+                "Off-campus_(with_Family),_In-state": "$6,993",
+                "Off-campus_(with_Family),_Out-of-state": "$9,393"
+            },
+            "Level_of_student": {
+                "Undergraduate": {
+                    "In-state": "$3,062",
+                    "Out-of-state": "$5,462"
+                },
+                "Graduate": {
+                    "In-state": "",
+                    "Out-of-state": ""
+                }
+            }
+        }
+    },
+    {
+        "elevatorInfo": {
+            "Institution_Characteristics": {
+                "Unitid": "180203",
+                "Name": "Aaniiih Nakoda College",
+                "City": "Harlem",
+                "State": "MT",
+                "Web_Address": "www.ancollege.edu/",
+                "Distance_Learning": "Not offered"
+            }
+        },
+        "studentCharges": {
+            "Cost": {
+                "Published_Tuition_And_Required_Fees": "$2,410",
+                "Books_And_Supplies": "$1,300",
+                "Off-campus_(not_With_Family)_Room_And_Board": "$6,920",
+                "Off-campus_(not_With_Family)_Other_Expenses": "$6,400",
+                "Off-campus_(with_Family)_Other_Expenses": "$4,800",
+                "Total_Cost": "",
+                "Off-campus_(not_With_Family)": "$17,030",
+                "Off-campus_(with_Family)": "$8,510"
+            },
+            "Level_of_student": {
+                "Undergraduate": {
+                    "Tuition_and_required_fees": "$2,410"
+                },
+                "Graduate": {
+                    "Tuition_and_required_fees": ""
+                }
+            }
+        }
+    },
+    {
+        "elevatorInfo": {
+            "Institution_Characteristics": {
+                "Unitid": "474924",
+                "Name": "Avalon School of Cosmetology-Layton",
+                "City": "Layton",
+                "State": "UT",
+                "Web_Address": "avalon.edu/locations/layton-ut/",
+                "Distance_Learning": "Offers undergraduate courses and/or programs"
+            }
+        },
+        "studentCharges": {
+            "Cost": {
+                "Largest_Program": "Cosmetology/Cosmetologist, General",
+                "Program_Length": "1,600  (contact hours)",
+                "Average_Months_To_Complete": "14",
+                "Published_Tuition_And_Required_Fees": "$17,200",
+                "Books_And_Supplies": "$2,343",
+                "Off-campus_(not_With_Family)_Room_And_Board": "$12,856",
+                "Off-campus_(not_With_Family)_Other_Expenses": "$14,273",
+                "Off-campus_(with_Family)_Other_Expenses": "$14,273",
+                "Total_Cost": "",
+                "Off-campus_(not_With_Family)": "$46,672",
+                "Off-campus_(with_Family)": "$33,816"
+            }
+        }
+    },
+    {
+        "elevatorInfo": {
+            "Institution_Characteristics": {
+                "Unitid": "159656",
+                "Name": "Loyola University New Orleans",
+                "City": "New Orleans",
+                "State": "LA",
+                "Web_Address": "www.loyno.edu/",
+                "Distance_Learning": "Offers undergraduate courses and/or programs"
+            }
+        },
+        "studentCharges": {
+            "Cost": {
+                "Published_Tuition_And_Required_Fees": "$42,278",
+                "Books_And_Supplies": "$1,300",
+                "On-campus_Room_And_Board": "$13,546",
+                "On-campus_Other_Expenses": "$3,160",
+                "Off-campus_(not_With_Family)_Room_And_Board": "$13,456",
+                "Off-campus_(not_With_Family)_Other_Expenses": "$3,160",
+                "Off-campus_(with_Family)_Other_Expenses": "$2,656",
+                "Total_Cost": "",
+                "On-campus": "$60,284",
+                "Off-campus_(not_With_Family)": "$60,194",
+                "Off-campus_(with_Family)": "$46,234"
+            },
+            "Level_of_student": {
+                "Undergraduate": {
+                    "Tuition_and_required_fees": "$42,030"
+                },
+                "Graduate": {
+                    "Tuition_and_required_fees": "$17,906"
+                },
+                "Doctor's_Professional_Practice": {
+                    "Tuition_and_required_fees": ""
+                },
+                "Law": {
+                    "Tuition_and_required_fees": "$47,002"
+                }
+            }
+        }
+    },
+    {
+        "elevatorInfo": {
+            "Institution_Characteristics": {
+                "Unitid": "133155",
+                "Name": "Lorenzo Walker Technical College",
+                "City": "Naples",
+                "State": "FL",
+                "Web_Address": "lwtc.edu/",
+                "Distance_Learning": "Not offered"
+            }
+        },
+        "studentCharges": {
+            "Cost": {
+                "Largest_Program": "Licensed Practical/Vocational Nurse Training",
+                "Program_Length": "1,350  (contact hours)",
+                "Average_Months_To_Complete": "14",
+                "Published_Tuition_And_Required_Fees": "$5,509",
+                "Books_And_Supplies": "$1,430",
+                "Off-campus_(not_With_Family)_Room_And_Board": "$18,340",
+                "Off-campus_(not_With_Family)_Other_Expenses": "$3,850",
+                "Off-campus_(with_Family)_Other_Expenses": "$3,850",
+                "Total_Cost": "",
+                "Off-campus_(not_With_Family)": "$29,129",
+                "Off-campus_(with_Family)": "$10,789"
+            }
+        }
+    },
+    {
+        "elevatorInfo": {
+            "Institution_Characteristics": {
+                "Unitid": "210474",
+                "Name": "Jolie Hair and Beauty Academy-Hazleton",
+                "City": "Hazleton",
+                "State": "PA",
+                "Web_Address": "www.jolieacademy.com/",
+                "Distance_Learning": "Not offered"
+            }
+        },
+        "studentCharges": {
+            "Cost": {
+                "Largest_Program": "Cosmetology/Cosmetologist, General",
+                "Program_Length": "1,250  (contact hours)",
+                "Average_Months_To_Complete": "11",
+                "Published_Tuition_And_Required_Fees": "$18,384",
+                "Books_And_Supplies": "$1,800",
+                "Off-campus_(not_With_Family)_Room_And_Board": "$4,242",
+                "Off-campus_(not_With_Family)_Other_Expenses": "$3,129",
+                "Off-campus_(with_Family)_Other_Expenses": "$3,129",
+                "Total_Cost": "",
+                "Off-campus_(not_With_Family)": "$27,555",
+                "Off-campus_(with_Family)": "$23,313"
+            }
+        }
+    },
+    {
+        "elevatorInfo": {
+            "Institution_Characteristics": {
+                "Unitid": "239071",
+                "Name": "Maranatha Baptist University",
+                "City": "Watertown",
+                "State": "WI",
+                "Web_Address": "www.mbu.edu/",
+                "Distance_Learning": "Offers undergraduate courses and/or programs"
+            }
+        },
+        "studentCharges": {
+            "Cost": {
+                "Published_Tuition_And_Required_Fees": "$17,650",
+                "Books_And_Supplies": "$1,350",
+                "On-campus_Room_And_Board": "$7,750",
+                "On-campus_Other_Expenses": "$2,940",
+                "Off-campus_(not_With_Family)_Room_And_Board": "$11,260",
+                "Off-campus_(not_With_Family)_Other_Expenses": "$2,940",
+                "Off-campus_(with_Family)_Other_Expenses": "$2,940",
+                "Total_Cost": "",
+                "On-campus": "$29,690",
+                "Off-campus_(not_With_Family)": "$33,200",
+                "Off-campus_(with_Family)": "$21,940"
+            },
+            "Level_of_student": {
+                "Undergraduate": {
+                    "Tuition_and_required_fees": "$17,650"
+                },
+                "Graduate": {
+                    "Tuition_and_required_fees": "$7,010"
+                }
+            }
+        }
+    },
+    {
+        "elevatorInfo": {
+            "Institution_Characteristics": {
+                "Unitid": "107071",
+                "Name": "Henderson State University",
+                "City": "Arkadelphia",
+                "State": "AR",
+                "Web_Address": "https://www.hsu.edu/",
+                "Distance_Learning": "Offers undergraduate courses and/or programs"
+            }
+        },
+        "studentCharges": {
+            "Cost": {
+                "Published_Tuition_And_Required_Fees": "",
+                "In-state": "$7,392",
+                "Out-of-state": "$9,312",
+                "Books_And_Supplies": "$2,500",
+                "On-campus_Room_And_Board": "$9,200",
+                "On-campus_Other_Expenses": "$7,100",
+                "Off-campus_(not_With_Family)_Room_And_Board": "$8,000",
+                "Off-campus_(not_With_Family)_Other_Expenses": "$7,500",
+                "Off-campus_(with_Family)_Other_Expenses": "$7,500",
+                "Total_Cost": "",
+                "On-campus,_In-state": "$26,192",
+                "On-campus,_Out-of-state": "$28,112",
+                "Off-campus_(not_With_Family),_In-state": "$25,392",
+                "Off-campus_(not_With_Family),_Out_Of_State": "$27,312",
+                "Off-campus_(with_Family),_In-state": "$17,392",
+                "Off-campus_(with_Family),_Out-of-state": "$19,312"
+            },
+            "Level_of_student": {
+                "Undergraduate": {
+                    "In-state": "$7,392",
+                    "Out-of-state": "$9,312"
+                },
+                "Graduate": {
+                    "In-state": "$6,740",
+                    "Out-of-state": "$8,612"
+                }
+            }
+        }
+    },
+    {
+        "elevatorInfo": {
+            "Institution_Characteristics": {
+                "Unitid": "219037",
+                "Name": "The Salon Professional Academy",
+                "City": "Rapid City",
+                "State": "SD",
+                "Web_Address": "www.tsparapidcity.com/",
+                "Distance_Learning": "Not offered"
+            }
+        },
+        "studentCharges": {
+            "Cost": {
+                "Largest_Program": "Cosmetology/Cosmetologist, General",
+                "Program_Length": "1,500  (contact hours)",
+                "Average_Months_To_Complete": "12",
+                "Published_Tuition_And_Required_Fees": "$13,706",
+                "Books_And_Supplies": "$2,128",
+                "Off-campus_(not_With_Family)_Room_And_Board": "$10,599",
+                "Off-campus_(not_With_Family)_Other_Expenses": "$5,217",
+                "Off-campus_(with_Family)_Other_Expenses": "$5,217",
+                "Total_Cost": "",
+                "Off-campus_(not_With_Family)": "$31,650",
+                "Off-campus_(with_Family)": "$21,051"
+            }
+        }
+    }
+]
